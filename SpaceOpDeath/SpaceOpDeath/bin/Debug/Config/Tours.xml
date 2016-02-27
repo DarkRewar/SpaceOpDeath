@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tours>
+  <Tour Number="1">
+    <Pannes>
+      <Panne Type="1" Number="0"/>
+      <Panne Type="2" Number="1"/>
+      <Panne Type="3" Number="0"/>
+    </Pannes>
+    <Text>
+      
+    </Text>
+  </Tour>
+  <Tour Number="2">
+    <Pannes>
+      <Panne Type="1" Number="0"/>
+      <Panne Type="2" Number="3"/>
+      <Panne Type="3" Number="0"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="3">
+    <Pannes>
+      <Panne Type="1" Number="1"/>
+      <Panne Type="2" Number="2"/>
+      <Panne Type="3" Number="0"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="4">
+    <Pannes>
+      <Panne Type="1" Number="1"/>
+      <Panne Type="2" Number="0"/>
+      <Panne Type="3" Number="1"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="5">
+    <Pannes>
+      <Panne Type="1" Number="0"/>
+      <Panne Type="2" Number="1"/>
+      <Panne Type="3" Number="2"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="6">
+    <Pannes>
+      <Panne Type="1" Number="0"/>
+      <Panne Type="2" Number="1"/>
+      <Panne Type="3" Number="1"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="7">
+    <Pannes>
+      <Panne Type="1" Number="0"/>
+      <Panne Type="2" Number="2"/>
+      <Panne Type="3" Number="0"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="8">
+    <Pannes>
+      <Panne Type="1" Number="2"/>
+      <Panne Type="2" Number="0"/>
+      <Panne Type="3" Number="1"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="9">
+    <Pannes>
+      <Panne Type="1" Number="1"/>
+      <Panne Type="2" Number="1"/>
+      <Panne Type="3" Number="0"/>
+    </Pannes>
+  </Tour>
+  <Tour Number="10">
+    <Pannes>
+      <Panne Type="1" Number="1"/>
+      <Panne Type="2" Number="0"/>
+      <Panne Type="3" Number="1"/>
+    </Pannes>
+  </Tour>
+</Tours>

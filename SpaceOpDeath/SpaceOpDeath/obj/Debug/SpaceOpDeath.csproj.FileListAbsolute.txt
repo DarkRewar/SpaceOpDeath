@@ -1,0 +1,8 @@
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\bin\Debug\Config\Tours.xml
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\bin\Debug\Config\Alea.xml
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\bin\Debug\SpaceOpDeath.exe.config
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\bin\Debug\SpaceOpDeath.exe
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\bin\Debug\SpaceOpDeath.pdb
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\obj\Debug\SpaceOpDeath.exe
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\obj\Debug\SpaceOpDeath.pdb
+D:\Curtis\Documents\VisualCSharp\SpaceOpDeath\SpaceOpDeath\SpaceOpDeath\obj\Debug\SpaceOpDeath.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Param Index="BreakdownSmallRange" Min="1" Max="12" />
+  <Param Index="BreakdownMediumRange" Min="12" Max="24" />
+  <Param Index="BreakdownBigRange" Min="24" Max="36" />
+  
+  <Param Index="BreakdownMemberDamages" Min="1" Max="4" />
+  <Param Index="BreakdownShipDamages" Min="1" Max="4" />
+  <Param Index="BreakdownDicesLosts" Min="1" Max="3" />
+  
+  <Param Index="MemberMaxHealth" Value="6" />
+  <Param Index="MemberMaxDices" Value="6" />
+  <Param Index="ShipMaxHealth" Value="6" />
+  
+  <Param Index="MemberHealthStart" Min="2" Max="4" />
+  <Param Index="MemberDicesStart" Min="2" Max="4" />
+  <Param Index="ShipHealthStart" Min="2" Max="6" />
+
+  <Param Index="SpecialPowerMinValue" Value="5" />
+  <Param Index="DiceRollsPerTour" Value="3" />
+  <Param Index="DiceDefaultFaces" Value="6" />
+
+  <Param Index="CaptainActionDicesToGive" Value="1" />
+  <Param Index="CommanderActionRepair" Value="10" />
+  <Param Index="DoctorActionHeal" Value="1" />
+  <Param Index="MechanicActionRepair" Value="1" />
+</Config>
