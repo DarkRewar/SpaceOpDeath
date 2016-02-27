@@ -82,7 +82,7 @@ namespace SpaceOpDeath.Breakdowns
         /// </summary>
         public void Trigger()
         {
-
+            GameEvent.gameEvent.GetShip().AddLifepoints( -1 );
         }
 
         /// <summary>
